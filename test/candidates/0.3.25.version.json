@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "channel": "TEST",
+  "packageName": "com.miguel.chickenrevenge.debug",
+  "versionCode": 232,
+  "versionName": "0.3.25-test-debug",
+  "minSdk": 26,
+  "critical": false,
+  "apkUrl": "https://github.com/Miguel19774/chicken-revenge-test-updates/releases/download/test-v0.3.25/ChickenRevenge-v0.3.25-TEST.apk",
+  "sizeBytes": 292852233,
+  "sha256": "7838c6694bf9c39ef7029819b23640340d9ceab7ec1f0caff1d6ccdf78547225",
+  "changelog": {
+    "ru": "Подготовлена TEST-версия с проверкой обновлений через GitHub. Игровые ресурсы сохранены без изменений.",
+    "en": "TEST build configured for GitHub update checks. Game resources are unchanged."
+  }
+}
